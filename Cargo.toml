@@ -1,0 +1,7 @@
+[package]
+name = "rdkafka_mpsc_test"
+version = "0.1.0"
+authors = ["James Brown <roguelazer@roguelazer.com>"]
+
+[dependencies]
+rdkafka = "*"
